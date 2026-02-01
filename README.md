@@ -1,4 +1,4 @@
-## Hi there 👋
+## Decision Intelligence 4 Health
 
 <!--
 **di4health/di4health** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
