@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs  # Change this from _site to docs
+
+website:
+  title: "di4health.github.io"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme:
+      - default
+      - brand
+    css: styles.css
+    toc: true
+
+
+
