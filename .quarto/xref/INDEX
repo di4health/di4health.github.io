@@ -10,5 +10,35 @@
   },
   "index_HOLD.md": {
     "index_HOLD.html": "43ff05d3"
+  },
+  "book.qmd": {
+    "book.html": "1dc635b9"
+  },
+  "team_skills.qmd": {
+    "team_skills.html": "5c797021"
+  },
+  "programming.qmd": {
+    "programming.html": "bf558f32"
+  },
+  "nb/Evans1997/NB_Julia_DecisionProgramming.ipynb": {
+    "NB_Julia_DecisionProgramming.html": "d409346d"
+  },
+  "nb/Evans1997/NB_R_rdecision.ipynb": {
+    "NB_R_rdecision.html": "563f53cb"
+  },
+  "nb/Petitti2000/NB_Julia_Agents-jl.ipynb": {
+    "NB_Julia_Agents-jl.html": "d75424a2"
+  },
+  "nb/Petitti2000/NB_R_rdecision_part1.ipynb": {
+    "NB_R_rdecision_part1.html": "70c55190"
+  },
+  "nb/Petitti2000/NB_R_rdecision_part2.ipynb": {
+    "NB_R_rdecision_part2.html": "96558a67"
+  },
+  "nb/Petitti2000/NB_Julia_DecisionProgramming-jl.ipynb": {
+    "NB_Julia_DecisionProgramming-jl.html": "c1819227"
+  },
+  "resources.qmd": {
+    "resources.html": "0490da86"
   }
 }
