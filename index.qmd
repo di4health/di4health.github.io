@@ -70,7 +70,7 @@ Currently, this site focuses on decision modeling. To learn more about the gener
 - <https://teampublichealth.substack.com/p/decision-intelligence>
 - <https://teampublichealth.substack.com/t/decisive>
 
-## Footnotes
+
 [^Weinstein]: Weinstein, Milton C., and Harvey V. Fineberg. _Clinical Decision Analysis_. Saunders, 1980.
 [^Duke]: Duke, Annie. _How to Decide: Simple Tools for Making Better Choices_. Penguin Publishing Group, 2020. https://www.annieduke.com/books/.
 
