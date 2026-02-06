@@ -37,28 +37,28 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Decision Intelligence 4 Health (di4h) Modeling",
+    "title": "Decision Intelligence 4 Health (di4h)",
     "section": "",
-    "text": "Tomás Aragón TEAM Public Health UC Berkeley Public Health.\nEmbedded in all journeys (life, learning, strategy, innovation, etc.) are the choices we make. Since medical school, when I was introduced to the nascent field of “decision analysis,”1 I came to appreciate that decision making is our most important daily activity. Annie Duke says it best:2\nIn spite of its importance, decision quality is rarely taught formally. This is a shame! Some of reasons include the organizational and analytical complexity of decision making. Figure 1 depicts how decision professionals tackle and manage these two dimensions. On this site we focus on decision analysis or modeling (analytical complexity) using popular data science programming languages such as Julia, Python, and R."
+    "text": "Tomás Aragón TEAM Public Health UC Berkeley Public Health.\nEmbedded in all journeys (life, learning, strategy, innovation, etc.) are the choices we make. Since medical school, when I was introduced to the nascent field of “decision analysis,”1 I came to appreciate that decision making is our most important daily activity. Annie Duke says it best:2\nIn spite of its importance, decision quality is rarely taught formally. This is a shame! Some of reasons include the organizational and analytical complexity of decision making. Figure 1 depicts how decision professionals tackle and manage these two dimensions. To address analytical complexity, this site focuses on decision modeling (aka, decision analysis) using popular data science programming languages such as Julia, Python, and R."
   },
   {
     "objectID": "index.html#decision-modeling-coding-examples",
     "href": "index.html#decision-modeling-coding-examples",
-    "title": "Decision Intelligence 4 Health (di4h) Modeling",
+    "title": "Decision Intelligence 4 Health (di4h)",
     "section": "Decision modeling coding examples",
     "text": "Decision modeling coding examples\nSee Decision modeling coding examples"
   },
   {
     "objectID": "index.html#the-di4h-framework",
     "href": "index.html#the-di4h-framework",
-    "title": "Decision Intelligence 4 Health (di4h) Modeling",
+    "title": "Decision Intelligence 4 Health (di4h)",
     "section": "The di4h framework",
     "text": "The di4h framework\nFigure 2 depicts the Decision Intelligence 4 Health framework with four pillars:\n\n4 dimensions,\n4 competency domains,\n4 constraints, and\n4 DEEP decision challenges.\n\nIn health and human services, we face 4 DEEP decision challenges:\n\nDecision making under uncertainty (information, data, knowledge, future)\nEthical decision making (values, moral trade-offs, benefits outweigh risks)\nEmergency and crisis decision making (time constraints with high stakes)\nPriority setting and resource allocation (resource investment trade-offs)\n\n\n\n\n\n\n\nFigure 2: Decision Intelligence 4 Health\n\n\n\nThe 4 DEEP decision challenges bring attention for 4 key constraints:\n\nInformation,\nValues,\nTime, and\nResources.\n\nIn practice, these contraints can, and do, occur simultaneously for the DEEP decisions.\nImportant decisions have 4 dimensions for consideration:\n\nDecision quality,\nStrategic execution,\nContinuous improvement, and\nEthics, science, and technology.\n\nIn public health, strategic decisions do not occur in isolation; they always occur within strategic execution frameworks (eg, incident command system, lean hoshin kanri, Results-Based Accountability). To ensure decision quality, we must deploy continuous improvement, ethics, science, and technology (eg, artificial intelligence)\nFinally, the Alliance for Decision Eduction has developed 4 evidence-based competency domains:\n\nRecognizing and resisting cognitive biases,\nValuing and applying rationality,\nThinking probabilistically, and\nStructuring decisions.\n\nCurrently, this site focuses on decision modeling. To learn more about the general aspects of Decision Intelligence 4 Health visit TEAM Public Health:\n\nhttps://teampublichealth.substack.com/p/decision-intelligence\nhttps://teampublichealth.substack.com/t/decisive"
   },
   {
     "objectID": "index.html#footnotes",
     "href": "index.html#footnotes",
-    "title": "Decision Intelligence 4 Health (di4h) Modeling",
+    "title": "Decision Intelligence 4 Health (di4h)",
     "section": "Footnotes",
     "text": "Footnotes\n\n\nWeinstein, Milton C., and Harvey V. Fineberg. Clinical Decision Analysis. Saunders, 1980.↩︎\nDuke, Annie. How to Decide: Simple Tools for Making Better Choices. Penguin Publishing Group, 2020. https://www.annieduke.com/books/.↩︎"
   },
