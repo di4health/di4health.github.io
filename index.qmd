@@ -1,5 +1,5 @@
 ---
-title: "Decision Intelligence 4 Health (di4h) Modeling"
+title: "Decision Intelligence 4 Health (di4h)"
 --- 
 
 [Tomás Aragón](https://substack.com/@tomasaragon)<br>
@@ -14,7 +14,7 @@ Embedded in all journeys (life, learning, strategy, innovation, etc.) are the ch
 >
 > Annie Duke, *How to Decide: Simple Tools for Making Better Choices*. Penguin Publishing Group, 2020.
 
-In spite of its importance, decision quality is rarely taught formally. This is a shame! Some of reasons include the organizational and analytical complexity of decision making. @fig-competence-complexity depicts how decision professionals tackle and manage these two dimensions. On this site we focus on **decision analysis or modeling** (analytical complexity) using popular data science programming languages such as Julia, Python, and R.
+In spite of its importance, decision quality is rarely taught formally. This is a shame! Some of reasons include the organizational and analytical complexity of decision making. @fig-competence-complexity depicts how decision professionals tackle and manage these two dimensions. To address analytical complexity, this site focuses on **decision modeling** (aka, decision analysis) using popular data science programming languages such as Julia, Python, and R.
 
 ![Two dimension of decision competence (Source: Parnell, Gregory S, Terry A. Bresnick, Eric Specking, Steven N. Tani, and Eric R. Johnson. Handbook of Decision Analysis. 2nd ed. Wiley, 2025.](./img/di_decision_competence_complexity.png){width=600 #fig-competence-complexity}
 
