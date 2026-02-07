@@ -12,10 +12,10 @@ For decision modeling will be focusing on the following approaches:
 
 The following open source software packages are used for decision modeling and leverage different approaches: decision trees, Baynesian networks (eg, influence diagrams), mixed-integer linear programming (MILP) (ie, optimization), and agent-based modeling.
 
-1. R: [rdecision](https://cran.r-project.org/web/packages/rdecision/index.html): uses decision trees 
-2. Python: [pyAgrum](https://pyagrum.gitlab.io/): uses influence diagrams
-3. Julia: [DecisionProgramming.jl](https://gamma-opt.github.io/DecisionProgramming.jl/dev/): uses influence diagrams and MILP
-4. Julia: [Agents.jl](https://juliadynamics.github.io/Agents.jl/stable/): uses agent-based modeling
+1. R: [rdecision](https://cran.r-project.org/web/packages/rdecision/index.html): for decision trees 
+2. Python: [pyAgrum](https://pyagrum.gitlab.io/): for influence diagrams with Bayesian networks
+3. Julia: [DecisionProgramming.jl](https://gamma-opt.github.io/DecisionProgramming.jl/dev/): for influence diagrams with MILP
+4. Julia: [Agents.jl](https://juliadynamics.github.io/Agents.jl/stable/): for agent-based modeling
 
 We are early in our journey and invite critical feedback, input, and suggestions. 
 
