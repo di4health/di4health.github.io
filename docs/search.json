@@ -4,14 +4,14 @@
     "href": "resources.html",
     "title": "Resources",
     "section": "",
-    "text": "R: rdecision package: https://cran.r-project.org/web/packages/rdecision/index.html\nJulia: DecisionProgramming.jl package: https://gamma-opt.github.io/DecisionProgramming.jl/dev/\n\nJulia: Agents.jl package: https://juliadynamics.github.io/Agents.jl/stable/"
+    "text": "R: rdecision: https://cran.r-project.org/web/packages/rdecision/index.html\nPython: pyAgrum: https://pyagrum.gitlab.io/\nJulia: DecisionProgramming.jl: https://gamma-opt.github.io/DecisionProgramming.jl/dev/\n\nJulia: Agents.jl: https://juliadynamics.github.io/Agents.jl/stable/"
   },
   {
     "objectID": "resources.html#software-packages",
     "href": "resources.html#software-packages",
     "title": "Resources",
     "section": "",
-    "text": "R: rdecision package: https://cran.r-project.org/web/packages/rdecision/index.html\nJulia: DecisionProgramming.jl package: https://gamma-opt.github.io/DecisionProgramming.jl/dev/\n\nJulia: Agents.jl package: https://juliadynamics.github.io/Agents.jl/stable/"
+    "text": "R: rdecision: https://cran.r-project.org/web/packages/rdecision/index.html\nPython: pyAgrum: https://pyagrum.gitlab.io/\nJulia: DecisionProgramming.jl: https://gamma-opt.github.io/DecisionProgramming.jl/dev/\n\nJulia: Agents.jl: https://juliadynamics.github.io/Agents.jl/stable/"
   },
   {
     "objectID": "resources.html#primer-on-medical-decision-analysis-5-part-series",
