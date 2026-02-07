@@ -6,10 +6,10 @@ title: "Resources"
 
 The following open source software packages are used for decision modeling and leverage different approaches: decision trees, Baynesian networks (eg, influence diagrams), mixed-integer linear programming (MILP) (ie, optimization), and agent-based modeling.
 
-1. R: [rdecision](https://cran.r-project.org/web/packages/rdecision/index.html): uses decision trees 
-2. Python: [pyAgrum](https://pyagrum.gitlab.io/): uses influence diagrams
-3. Julia: [DecisionProgramming.jl](https://gamma-opt.github.io/DecisionProgramming.jl/dev/): uses influence diagrams and MILP
-4. Julia: [Agents.jl](https://juliadynamics.github.io/Agents.jl/stable/): uses agent-based modeling
+1. R: [rdecision](https://cran.r-project.org/web/packages/rdecision/index.html): for decision trees 
+2. Python: [pyAgrum](https://pyagrum.gitlab.io/): for influence diagrams with Bayesian networks
+3. Julia: [DecisionProgramming.jl](https://gamma-opt.github.io/DecisionProgramming.jl/dev/): for influence diagrams with MILP
+4. Julia: [Agents.jl](https://juliadynamics.github.io/Agents.jl/stable/): for agent-based modeling
 
 ## Primer on Medical Decision Analysis (5 part series)
 1. Detsky, A. S., G. Naglie, M. D. Krahn, D. Naimark, and D. A. Redelmeier. “Primer on Medical Decision Analysis: Part 1--Getting Started.” Medical Decision Making: An International Journal of the Society for Medical Decision Making 17, no. 2 (1997): 123–25. <https://doi.org/10.1177/0272989X9701700201>.

@@ -4,14 +4,14 @@
     "href": "resources.html",
     "title": "Resources",
     "section": "",
-    "text": "The following open source software packages are used for decision modeling and leverage different approaches: decision trees, Baynesian networks (eg, influence diagrams), mixed-integer linear programming (MILP) (ie, optimization), and agent-based modeling.\n\nR: rdecision: uses decision trees\nPython: pyAgrum: uses influence diagrams\nJulia: DecisionProgramming.jl: uses influence diagrams and MILP\nJulia: Agents.jl: uses agent-based modeling"
+    "text": "The following open source software packages are used for decision modeling and leverage different approaches: decision trees, Baynesian networks (eg, influence diagrams), mixed-integer linear programming (MILP) (ie, optimization), and agent-based modeling.\n\nR: rdecision: for decision trees\nPython: pyAgrum: for influence diagrams with Bayesian networks\nJulia: DecisionProgramming.jl: for influence diagrams with MILP\nJulia: Agents.jl: for agent-based modeling"
   },
   {
     "objectID": "resources.html#software-packages",
     "href": "resources.html#software-packages",
     "title": "Resources",
     "section": "",
-    "text": "The following open source software packages are used for decision modeling and leverage different approaches: decision trees, Baynesian networks (eg, influence diagrams), mixed-integer linear programming (MILP) (ie, optimization), and agent-based modeling.\n\nR: rdecision: uses decision trees\nPython: pyAgrum: uses influence diagrams\nJulia: DecisionProgramming.jl: uses influence diagrams and MILP\nJulia: Agents.jl: uses agent-based modeling"
+    "text": "The following open source software packages are used for decision modeling and leverage different approaches: decision trees, Baynesian networks (eg, influence diagrams), mixed-integer linear programming (MILP) (ie, optimization), and agent-based modeling.\n\nR: rdecision: for decision trees\nPython: pyAgrum: for influence diagrams with Bayesian networks\nJulia: DecisionProgramming.jl: for influence diagrams with MILP\nJulia: Agents.jl: for agent-based modeling"
   },
   {
     "objectID": "resources.html#primer-on-medical-decision-analysis-5-part-series",
