@@ -1,8 +1,8 @@
 ---
-title: "Decision modeling examples"
+title: "Decision modeling -- Jupyter notebooks"
 ---
 
-The purpose of this site is to develop a repository of health economic decision modeling (aka, decision analysis) coding examples to support analysts who are learning how to code to solve practical decision problems. A secondary purpose is to have a repository for training artificial intelligence to assist us in tackling more complex decision problems.
+The purpose of this site is to develop a Jupyter notebook repository of health economic decision modeling (aka, decision analysis) coding examples to support analysts who are learning how to code to solve practical decision problems. A secondary purpose is to have a repository for training artificial intelligence to assist us in tackling more complex decision problems.
 
 For decision modeling will be focusing on the following approaches:
 
@@ -19,24 +19,37 @@ The following open source software packages are used for decision modeling and l
 
 We are early in our journey and invite critical feedback, input, and suggestions. 
 
-## Decision Analysis (Chapter 2, Petitti 2000)
-Source: Overview of the Methods (Chapter 2) in Diana B. Petitti. Meta-Analysis, Decision Analysis, and Cost-Effectiveness Analysis: Methods for Quantitative Synthesis in Medicine. 2nd ed. Monographs in Epidemiology and Biostatistics, v. 31. Oxford University Press, 2000. https://doi.org/10.1093/acprof:oso/9780195133646.001.0001.
+Do you want to contribute a Jupyter notebook? Contact [Tomás Aragón](http://substack.com/@tomasaragon).
 
-For background, see: Tomás Aragón. "Bayes' Theorem and Decision Analysis for Mortals: Transforming Data into Information, Knowledge, and Wisdom - Part 3." TEAM Public Health, January 15, 2016. https://teampublichealth.substack.com/p/bayes-theorem-and-decision-analysis.
+### Special announcements
+
+#### Open Source library of published health economic models
+The library is a curated list of open-source health economic models (OSMs) identified through a systematic review conducted by Henderson et al. (2025).[^pmid39952464] The purpose of this resource is to make these models easily accessible for decision makers and modeling.
+
+To learn more watch this [YouTube video](https://www.youtube.com/watch?v=_cGkw7ab7IA) by Mirko von Hein. 
+
+[^pmid39952464]: Henderson, Raymond H., Chris Sampson, Xavier G. L. V. Pouwels, et al. “Mapping the Landscape of Open Source Health Economic Models: A Systematic Database Review and Analysis: An ISPOR Special Interest Group Report.” Value in Health: The Journal of the International Society for Pharmacoeconomics and Outcomes Research 28, no. 6 (2025): 813–20. <https://doi.org/10.1016/j.jval.2025.01.019>.
+
+## Decision models
+
+### Decision Analysis (Chapter 2, Petitti 2000)
+Source: Overview of the Methods (Chapter 2) in Diana B. Petitti. Meta-Analysis, Decision Analysis, and Cost-Effectiveness Analysis: Methods for Quantitative Synthesis in Medicine. 2nd ed. Monographs in Epidemiology and Biostatistics, v. 31. Oxford University Press, 2000. <https://doi.org/10.1093/acprof:oso/9780195133646.001.0001>.
+
+For background, see: Tomás Aragón. "Bayes' Theorem and Decision Analysis for Mortals: Transforming Data into Information, Knowledge, and Wisdom - Part 3." TEAM Public Health, January 15, 2016. <https://teampublichealth.substack.com/p/bayes-theorem-and-decision-analysis>.
 
 - DA using a decision tree (`rdecision`): [R Jupyter Notebook (Part 1)](https://github.com/di4health/di4h/blob/main/nb/Petitti2000/NB_R_rdecision_part1.ipynb)  
 - DA using a decision tree (`rdecision`): [R Jupyter Notebook (Part 2)](https://github.com/di4health/di4h/blob/main/nb/Petitti2000/NB_R_rdecision_part2.ipynb)   
 - DA using influence diagrams (`DecisionProgramming.jl`): [Julia Jupyter Notebook](https://github.com/di4health/di4h/blob/main/nb/Petitti2000/NB_Julia_DecisionProgramming-jl.ipynb)
 - DA using agent-based modeling (`Agents.jl`): [Julia Jupyter Notebook](https://github.com/di4health/di4h/blob/main/nb/Petitti2000/NB_Julia_Agents-jl.ipynb)
 
-## Elementary decision tree (Evans 1997)
-We will replicate the decision analysis from this `rdecision` R package vignette: https://cran.r-project.org/web/packages/rdecision/vignettes/DT01-Sumatriptan.html 
+### Elementary decision tree (Evans 1997) -- IN PROGRESS
+We will replicate the decision analysis from this `rdecision` R package vignette: <https://cran.r-project.org/web/packages/rdecision/vignettes/DT01-Sumatriptan.html> 
 
-Source: Evans, K. W., J. A. Boan, J. L. Evans, and A. Shuaib. “Economic Evaluation of Oral Sumatriptan Compared with Oral Caffeine/Ergotamine for Migraine.” PharmacoEconomics 12, no. 5 (1997): 565–77. https://doi.org/10.2165/00019053-199712050-00007.
+Source: Evans, K. W., J. A. Boan, J. L. Evans, and A. Shuaib. “Economic Evaluation of Oral Sumatriptan Compared with Oral Caffeine/Ergotamine for Migraine.” PharmacoEconomics 12, no. 5 (1997): 565–77. <https://doi.org/10.2165/00019053-199712050-00007>.
 
 - DA using a decision tree (`rdecision`): [R Jupyter Notebook](https://github.com/di4health/di4h/blob/main/nb/Evans1997/NB_R_rdecision_Evans1997.ipynb)  
 - DA using an influence diagram (`DecisionProgramming.jl`): [Julia Jupyter Notebook](https://github.com/di4health/di4h/blob/main/nb/Evans1997/NB_Julia_DecisionProgramming_Evans1997_V5.ipynb)
 
-## A Primer on Bayesian Decision Analysis (Neapolitan 2016)
-Source: Neapolitan, Richard, Xia Jiang, Daniela P. Ladner, and Bruce Kaplan. “A Primer on Bayesian Decision Analysis With an Application to a Kidney Transplant Decision.” Transplantation 100, no. 3 (2016): 489–96. https://doi.org/10.1097/TP.0000000000001145.
+## A Primer on Bayesian Decision Analysis (Neapolitan 2016) -- PENDING
+Source: Neapolitan, Richard, Xia Jiang, Daniela P. Ladner, and Bruce Kaplan. “A Primer on Bayesian Decision Analysis With an Application to a Kidney Transplant Decision.” Transplantation 100, no. 3 (2016): 489–96. <https://doi.org/10.1097/TP.0000000000001145>.
 

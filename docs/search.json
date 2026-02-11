@@ -39,7 +39,14 @@
     "href": "index.html",
     "title": "Decision Intelligence 4 Health (di4h)",
     "section": "",
-    "text": "Embedded in all journeys (life, learning, strategy, innovation, etc.) are the choices we make. Decision making is our most important daily activity. Annie Duke says it best:1 2 3\nIn spite of its importance, decision quality is rarely taught formally. This is a shame! Some of reasons include the organizational and analytical complexity of decision making. Figure 1 depicts how decision professionals tackle and manage these two dimensions. To address analytical complexity, this site focuses on decision modeling (aka, decision analysis) using popular data science programming languages such as Julia, Python, and R."
+    "text": "Embedded in all journeys (life, learning, strategy, innovation, etc.) are the choices we make. Decision making is our most important daily activity. Annie Duke says it best:1 2 3\n\n“… there are only two things that determine how your life turns out: luck and the quality of your decisions. You have control over only one of those two things.”\n“… your decision-making is the single most important thing you have control over that will help you achieve your goals.”\nAnnie Duke, How to Decide: Simple Tools for Making Better Choices. Penguin Publishing Group, 2020.\n\nIn spite of its importance, decision quality is rarely taught formally. This is a shame! Some of reasons include the organizational and analytical complexity of decision making. Figure 1 depicts how decision professionals tackle and manage these two dimensions. To address analytical complexity, this site focuses on decision modeling (aka, decision analysis) using popular data science programming languages such as Julia, Python, and R.\n\n\n\n\n\n\nFigure 1: Two dimension of decision competence (Source: Parnell, Gregory S, Terry A. Bresnick, Eric Specking, Steven N. Tani, and Eric R. Johnson. Handbook of Decision Analysis. 2nd ed. Wiley, 2025."
+  },
+  {
+    "objectID": "index.html#a-project-of-team-public-health",
+    "href": "index.html#a-project-of-team-public-health",
+    "title": "Decision Intelligence 4 Health (di4h)",
+    "section": "",
+    "text": "Embedded in all journeys (life, learning, strategy, innovation, etc.) are the choices we make. Decision making is our most important daily activity. Annie Duke says it best:1 2 3\n\n“… there are only two things that determine how your life turns out: luck and the quality of your decisions. You have control over only one of those two things.”\n“… your decision-making is the single most important thing you have control over that will help you achieve your goals.”\nAnnie Duke, How to Decide: Simple Tools for Making Better Choices. Penguin Publishing Group, 2020.\n\nIn spite of its importance, decision quality is rarely taught formally. This is a shame! Some of reasons include the organizational and analytical complexity of decision making. Figure 1 depicts how decision professionals tackle and manage these two dimensions. To address analytical complexity, this site focuses on decision modeling (aka, decision analysis) using popular data science programming languages such as Julia, Python, and R.\n\n\n\n\n\n\nFigure 1: Two dimension of decision competence (Source: Parnell, Gregory S, Terry A. Bresnick, Eric Specking, Steven N. Tani, and Eric R. Johnson. Handbook of Decision Analysis. 2nd ed. Wiley, 2025."
   },
   {
     "objectID": "index.html#decision-modeling-coding-examples",
@@ -114,29 +121,29 @@
   {
     "objectID": "coding.html",
     "href": "coding.html",
-    "title": "Decision modeling examples",
+    "title": "Decision modeling – Jupyter notebooks",
     "section": "",
-    "text": "The purpose of this site is to develop a repository of health economic decision modeling (aka, decision analysis) coding examples to support analysts who are learning how to code to solve practical decision problems. A secondary purpose is to have a repository for training artificial intelligence to assist us in tackling more complex decision problems.\nFor decision modeling will be focusing on the following approaches:\nThe following open source software packages are used for decision modeling and leverage different approaches: decision trees, Baynesian networks (eg, influence diagrams), mixed-integer linear programming (MILP) (ie, optimization), and agent-based modeling.\nWe are early in our journey and invite critical feedback, input, and suggestions."
+    "text": "The purpose of this site is to develop a Jupyter notebook repository of health economic decision modeling (aka, decision analysis) coding examples to support analysts who are learning how to code to solve practical decision problems. A secondary purpose is to have a repository for training artificial intelligence to assist us in tackling more complex decision problems.\nFor decision modeling will be focusing on the following approaches:\nThe following open source software packages are used for decision modeling and leverage different approaches: decision trees, Baynesian networks (eg, influence diagrams), mixed-integer linear programming (MILP) (ie, optimization), and agent-based modeling.\nWe are early in our journey and invite critical feedback, input, and suggestions.\nDo you want to contribute a Jupyter notebook? Contact Tomás Aragón."
   },
   {
-    "objectID": "coding.html#decision-analysis-chapter-2-petitti-2000",
-    "href": "coding.html#decision-analysis-chapter-2-petitti-2000",
-    "title": "Decision modeling examples",
-    "section": "Decision Analysis (Chapter 2, Petitti 2000)",
-    "text": "Decision Analysis (Chapter 2, Petitti 2000)\nSource: Overview of the Methods (Chapter 2) in Diana B. Petitti. Meta-Analysis, Decision Analysis, and Cost-Effectiveness Analysis: Methods for Quantitative Synthesis in Medicine. 2nd ed. Monographs in Epidemiology and Biostatistics, v. 31. Oxford University Press, 2000. https://doi.org/10.1093/acprof:oso/9780195133646.001.0001.\nFor background, see: Tomás Aragón. “Bayes’ Theorem and Decision Analysis for Mortals: Transforming Data into Information, Knowledge, and Wisdom - Part 3.” TEAM Public Health, January 15, 2016. https://teampublichealth.substack.com/p/bayes-theorem-and-decision-analysis.\n\nDA using a decision tree (rdecision): R Jupyter Notebook (Part 1)\n\nDA using a decision tree (rdecision): R Jupyter Notebook (Part 2)\n\nDA using influence diagrams (DecisionProgramming.jl): Julia Jupyter Notebook\nDA using agent-based modeling (Agents.jl): Julia Jupyter Notebook"
+    "objectID": "coding.html#decision-models",
+    "href": "coding.html#decision-models",
+    "title": "Decision modeling – Jupyter notebooks",
+    "section": "Decision models",
+    "text": "Decision models\n\nDecision Analysis (Chapter 2, Petitti 2000)\nSource: Overview of the Methods (Chapter 2) in Diana B. Petitti. Meta-Analysis, Decision Analysis, and Cost-Effectiveness Analysis: Methods for Quantitative Synthesis in Medicine. 2nd ed. Monographs in Epidemiology and Biostatistics, v. 31. Oxford University Press, 2000. https://doi.org/10.1093/acprof:oso/9780195133646.001.0001.\nFor background, see: Tomás Aragón. “Bayes’ Theorem and Decision Analysis for Mortals: Transforming Data into Information, Knowledge, and Wisdom - Part 3.” TEAM Public Health, January 15, 2016. https://teampublichealth.substack.com/p/bayes-theorem-and-decision-analysis.\n\nDA using a decision tree (rdecision): R Jupyter Notebook (Part 1)\n\nDA using a decision tree (rdecision): R Jupyter Notebook (Part 2)\n\nDA using influence diagrams (DecisionProgramming.jl): Julia Jupyter Notebook\nDA using agent-based modeling (Agents.jl): Julia Jupyter Notebook\n\n\n\nElementary decision tree (Evans 1997) – IN PROGRESS\nWe will replicate the decision analysis from this rdecision R package vignette: https://cran.r-project.org/web/packages/rdecision/vignettes/DT01-Sumatriptan.html\nSource: Evans, K. W., J. A. Boan, J. L. Evans, and A. Shuaib. “Economic Evaluation of Oral Sumatriptan Compared with Oral Caffeine/Ergotamine for Migraine.” PharmacoEconomics 12, no. 5 (1997): 565–77. https://doi.org/10.2165/00019053-199712050-00007.\n\nDA using a decision tree (rdecision): R Jupyter Notebook\n\nDA using an influence diagram (DecisionProgramming.jl): Julia Jupyter Notebook"
   },
   {
-    "objectID": "coding.html#elementary-decision-tree-evans-1997",
-    "href": "coding.html#elementary-decision-tree-evans-1997",
-    "title": "Decision modeling examples",
-    "section": "Elementary decision tree (Evans 1997)",
-    "text": "Elementary decision tree (Evans 1997)\nWe will replicate the decision analysis from this rdecision R package vignette: https://cran.r-project.org/web/packages/rdecision/vignettes/DT01-Sumatriptan.html\nSource: Evans, K. W., J. A. Boan, J. L. Evans, and A. Shuaib. “Economic Evaluation of Oral Sumatriptan Compared with Oral Caffeine/Ergotamine for Migraine.” PharmacoEconomics 12, no. 5 (1997): 565–77. https://doi.org/10.2165/00019053-199712050-00007.\n\nDA using a decision tree (rdecision): R Jupyter Notebook\n\nDA using an influence diagram (DecisionProgramming.jl): Julia Jupyter Notebook"
+    "objectID": "coding.html#a-primer-on-bayesian-decision-analysis-neapolitan-2016-pending",
+    "href": "coding.html#a-primer-on-bayesian-decision-analysis-neapolitan-2016-pending",
+    "title": "Decision modeling – Jupyter notebooks",
+    "section": "A Primer on Bayesian Decision Analysis (Neapolitan 2016) – PENDING",
+    "text": "A Primer on Bayesian Decision Analysis (Neapolitan 2016) – PENDING\nSource: Neapolitan, Richard, Xia Jiang, Daniela P. Ladner, and Bruce Kaplan. “A Primer on Bayesian Decision Analysis With an Application to a Kidney Transplant Decision.” Transplantation 100, no. 3 (2016): 489–96. https://doi.org/10.1097/TP.0000000000001145."
   },
   {
-    "objectID": "coding.html#a-primer-on-bayesian-decision-analysis-neapolitan-2016",
-    "href": "coding.html#a-primer-on-bayesian-decision-analysis-neapolitan-2016",
-    "title": "Decision modeling examples",
-    "section": "A Primer on Bayesian Decision Analysis (Neapolitan 2016)",
-    "text": "A Primer on Bayesian Decision Analysis (Neapolitan 2016)\nSource: Neapolitan, Richard, Xia Jiang, Daniela P. Ladner, and Bruce Kaplan. “A Primer on Bayesian Decision Analysis With an Application to a Kidney Transplant Decision.” Transplantation 100, no. 3 (2016): 489–96. https://doi.org/10.1097/TP.0000000000001145."
+    "objectID": "coding.html#footnotes",
+    "href": "coding.html#footnotes",
+    "title": "Decision modeling – Jupyter notebooks",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nHenderson, Raymond H., Chris Sampson, Xavier G. L. V. Pouwels, et al. “Mapping the Landscape of Open Source Health Economic Models: A Systematic Database Review and Analysis: An ISPOR Special Interest Group Report.” Value in Health: The Journal of the International Society for Pharmacoeconomics and Outcomes Research 28, no. 6 (2025): 813–20. https://doi.org/10.1016/j.jval.2025.01.019.↩︎"
   }
 ]

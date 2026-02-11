@@ -1,6 +1,7 @@
 ---
 title: "Decision Intelligence 4 Health (di4h)"
 --- 
+## A project of [TEAM Public Health](https://teampublichealth.substack.com/) 
 
 Embedded in all journeys (life, learning, strategy, innovation, etc.) are the choices we make. Decision making is our most important daily activity. Annie Duke says it best:[^Duke1] [^Duke2] [^Duke3]
 
