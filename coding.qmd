@@ -24,7 +24,7 @@ Do you want to contribute a Jupyter notebook? Contact [Tomás Aragón](http://su
 ### Special announcements
 
 #### Open Source library of published health economic models
-The library is a curated list of open-source health economic models (OSMs) identified through a systematic review conducted by Henderson et al. (2025).[^pmid39952464] The purpose of this resource is to make these models easily accessible for decision makers and modeling.
+The library is a curated list of [open-source health economic models](https://www.notion.so/Open-Source-Model-Library-2e828f8fdfc08017a9fbc021b4ef6ba1) identified through a systematic review conducted by Henderson et al. (2025).[^pmid39952464] The purpose of this resource is to make these models easily accessible for decision makers and modeling.
 
 To learn more watch this [YouTube video](https://www.youtube.com/watch?v=_cGkw7ab7IA) by Mirko von Hein. 
 
