@@ -21,9 +21,11 @@ See [Decision modeling coding examples](coding.qmd)
 
 ## The di4health framework
 
+The di4health framework is a holistic, practiced-based framework for team decision making under real world constraints. 
+
 @fig-di4h depicts the Decision Intelligence 4 Health framework with four pillars:
 
-1. 4 dimensions, 
+1. 4 dimensions (real work practice), 
 2. 4 competency domains,
 3. 4 constraints, and
 4. 4 DEEP decision challenges.

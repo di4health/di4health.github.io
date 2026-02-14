@@ -49,7 +49,9 @@ Source: Evans, K. W., J. A. Boan, J. L. Evans, and A. Shuaib. “Economic Evalua
 
 - DA using a decision tree (`rdecision`): [R Jupyter Notebook](https://github.com/di4health/di4h/blob/main/nb/Evans1997/NB_R_rdecision_Evans1997.ipynb)  
 - DA using influence diagram (`DecisionProgramming.jl`): [Julia Jupyter Notebook](https://github.com/di4health/di4h/blob/main/nb/Evans1997/NB_Julia_DecisionProgramming_Evans1997_V5.ipynb)
+- DA using influence diagram (`pyAgrum`): [Python Jupyter Notebook](https://github.com/di4health/di4h/blob/main/nb/Evans1997/NB_Python_pyAgrum_Evans1997_V2.ipynb)
 - DA using agent-based modeling (`Agents.jl`): [Julia Jupyter Notebook](https://github.com/di4health/di4h/blob/main/nb/Evans1997/NB_Julia_AgentsJL_Evans1997_V3_claude2.ipynb)
+- DA using agent-based modeling (`mesa`): [Python Jupyter Notebook](https://github.com/di4health/di4h/blob/main/nb/Evans1997/NB_Python_Mesa3_Evans1997_V1.ipynb)
 
 
 ## A Primer on Bayesian Decision Analysis (Neapolitan 2016) -- PENDING
