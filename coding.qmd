@@ -23,7 +23,7 @@ Do you want to contribute a Jupyter notebook? Contact [Tomás Aragón](http://su
 
 ### Special announcements
 
-#### TutorialBuilding a decision tree model in R
+#### Building a decision tree model in R (tutorial)  
 From Mirko von Hein, learn how to build a healthcare decision tree model in R from scratch to calculate ICERs, run one-way sensitivity analyses, and create tornado diagrams for cost-effectiveness analysis.
 
 {{< video https://www.youtube.com/watch?v=8fvr0NaUKE8 >}}

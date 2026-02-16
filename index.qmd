@@ -3,6 +3,8 @@ title: "Decision Intelligence 4 Health (di4health)"
 --- 
 ## A project of [TEAM Public Health](https://teampublichealth.substack.com/) 
 
+[Tomás Aragón](https://substack.com/@tomasaragon)   
+
 Embedded in all journeys (life, learning, strategy, innovation, etc.) are the choices we make. Decision making is our most important daily activity. Annie Duke says it best:[^Duke1] [^Duke2] [^Duke3]
 
 > *"... there are only two things that determine how your life turns out: luck and the quality of your decisions. You have control over only one of those two things."*
