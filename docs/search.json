@@ -49,18 +49,18 @@
     "text": "Tomás Aragón\nEmbedded in all journeys (life, learning, strategy, innovation, etc.) are the choices we make. Decision making is our most important daily activity. Annie Duke says it best:1 2 3\n\n“… there are only two things that determine how your life turns out: luck and the quality of your decisions. You have control over only one of those two things.”\n“… your decision-making is the single most important thing you have control over that will help you achieve your goals.”\nAnnie Duke, How to Decide: Simple Tools for Making Better Choices. Penguin Publishing Group, 2020.\n\nIn spite of its importance, decision quality is rarely taught formally. This is a shame! Some of reasons include the organizational and analytical complexity of decision making. Figure 1 depicts how decision professionals tackle and manage these two dimensions. To address analytical complexity, this site focuses on decision modeling (aka, decision analysis) using popular data science programming languages such as Julia, Python, and R.\n\n\n\n\n\n\nFigure 1: Two dimensions of decision competence (Source: Parnell, Gregory S, Terry A. Bresnick, Eric Specking, Steven N. Tani, and Eric R. Johnson. Handbook of Decision Analysis. 2nd ed. Wiley, 2025."
   },
   {
-    "objectID": "index.html#decision-modeling-coding-examples",
-    "href": "index.html#decision-modeling-coding-examples",
-    "title": "Decision Intelligence 4 Health (di4health)",
-    "section": "Decision modeling coding examples",
-    "text": "Decision modeling coding examples\nSee Decision modeling coding examples"
-  },
-  {
     "objectID": "index.html#the-di4health-framework",
     "href": "index.html#the-di4health-framework",
     "title": "Decision Intelligence 4 Health (di4health)",
     "section": "The di4health framework",
     "text": "The di4health framework\nThe di4health framework is a holistic, practiced-based framework for team decision making under real world constraints.\nFigure 2 depicts the Decision Intelligence 4 Health framework with four pillars:\n\n4 dimensions (real world practice),\n4 competency domains,\n4 constraints, and\n4 DEEP decision challenges.\n\nIn health and human services, we face 4 DEEP decision challenges:\n\nD — Decision making under uncertainty (information, data, knowledge, future)\nE — Ethical decision making (values, moral trade-offs, benefits outweigh risks)\nE — Emergency and crisis decision making (time constraints with high stakes)\nP — Priority setting and resource allocation (resource investment trade-offs)\n\n\n\n\n\n\n\nFigure 2: Decision Intelligence 4 Health\n\n\n\nThe 4 DEEP decision challenges bring attention for 4 key constraints:\n\nInformation,\nValues,\nTime, and\nResources.\n\nIn practice, these contraints can, and do, occur simultaneously for the DEEP decisions.\nImportant decisions have 4 dimensions for consideration:\n\nDecision quality,\nStrategy execution,\nContinuous improvement, and\nEthics, science, and technology.\n\nIn public health, strategic decisions do not occur in isolation; they always occur within strategic execution frameworks (eg, incident command system, lean management, PDSA/A3 problem solving, needs-driven innovation, Results-Based Accountability). To ensure decision quality, we must deploy continuous improvement, ethics, science, and technology (eg, artificial intelligence)\nFinally, the Alliance for Decision Eduction has developed 4 evidence-based competency domains:\n\nRecognizing and resisting cognitive biases,\nValuing and applying rationality,\nThinking probabilistically, and\nStructuring decisions.\n\nCurrently, this site focuses on decision modeling. To learn more about the general aspects of Decision Intelligence 4 Health visit TEAM Public Health:\n\nhttps://teampublichealth.substack.com/p/decision-intelligence\nhttps://teampublichealth.substack.com/t/decisive"
+  },
+  {
+    "objectID": "index.html#decision-modeling-coding-examples",
+    "href": "index.html#decision-modeling-coding-examples",
+    "title": "Decision Intelligence 4 Health (di4health)",
+    "section": "Decision modeling coding examples",
+    "text": "Decision modeling coding examples\nSee Decision modeling coding examples (this site)\nSee Decision Analysis in R for Technologies in Health (external link)"
   },
   {
     "objectID": "index.html#footnotes",
